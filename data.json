@@ -1,0 +1,140 @@
+{
+    "products":[{
+        "id":"1",
+        "brand": "Here&Now",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/z/l/xl-mens-lw-lycra-t-shirt-sti-original-imahf7w4jecy5r8f.jpeg?q=70",
+        "currentPrice": "150",
+        "standardPrice":"300",
+        "discount":"50",
+        "name":"Men Pure Cotton T-Shirt"
+      },
+      {
+        "id":"2",
+        "brand": "Levice",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/0/j/xl-ausk0286-ausk-original-imagqtpqwk237xeq.jpeg?q=70",
+        "currentPrice": "350",
+        "standardPrice":"500",
+        "discount":"50",
+        "name":"Men Pure Grey Cotton T-Shirt"
+      },
+      {
+        "id":"3",
+        "brand": "Addidas",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/f/n/i/xl-90s-anime-oversize-tshirt-for-men-zen1fashion-original-imahyy4ghy9xfmwx.jpeg?q=70",
+        "currentPrice": "550",
+        "standardPrice":"900",
+        "discount":"50",
+        "name":"Men Pure Pink Cotton T-Shirt"
+      },
+      {
+        "id":"4",
+        "brand": "H&M",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/y/m/l-xjc23-rn-3-4th-blk-prpl-spoiled-jump-cuts-original-imahf85g4d5yxm8y.jpeg?q=70",
+        "currentPrice": "1150",
+        "standardPrice":"3000",
+        "discount":"50",
+        "name":"Men Pure Blue Cotton T-Shirt"
+      },
+      {
+        "id":"5",
+        "brand": "Puma",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/e/z/z/xl-mens-hiltop-lycra-t-shirt-sti-original-imahyyzrzdywqtzm.jpeg?q=70",
+        "currentPrice": "1450",
+        "standardPrice":"3400",
+        "discount":"50",
+        "name":"Men Pure Cotton T-Shirt"
+      },
+      {
+        "id":"6",
+        "brand": "Nike",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/o/u/w/m-anime-tshirt-for-men-zen1fashion-original-imahf6svzgnyradz.jpeg?q=70",
+        "currentPrice": "1500",
+        "standardPrice":"3600",
+        "discount":"50",
+        "name":"Men Pure Cotton T-Shirt"
+      }
+      ,
+      {
+        "id":"4",
+        "brand": "H&M",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/y/m/l-xjc23-rn-3-4th-blk-prpl-spoiled-jump-cuts-original-imahf85g4d5yxm8y.jpeg?q=70",
+        "currentPrice": "1150",
+        "standardPrice":"3000",
+        "discount":"50",
+        "name":"Men Pure Blue Cotton T-Shirt"
+      },
+      {
+        "id":"5",
+        "brand": "Puma",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/e/z/z/xl-mens-hiltop-lycra-t-shirt-sti-original-imahyyzrzdywqtzm.jpeg?q=70",
+        "currentPrice": "1450",
+        "standardPrice":"3400",
+        "discount":"50",
+        "name":"Men Pure Cotton T-Shirt"
+      },
+      {
+        "id":"6",
+        "brand": "Nike",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/o/u/w/m-anime-tshirt-for-men-zen1fashion-original-imahf6svzgnyradz.jpeg?q=70",
+        "currentPrice": "1500",
+        "standardPrice":"3600",
+        "discount":"50",
+        "name":"Men Pure Cotton T-Shirt"
+      },
+      {
+        "id":"1",
+        "brand": "Here&Now",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/z/l/xl-mens-lw-lycra-t-shirt-sti-original-imahf7w4jecy5r8f.jpeg?q=70",
+        "currentPrice": "150",
+        "standardPrice":"300",
+        "discount":"50",
+        "name":"Men Pure Cotton T-Shirt"
+      },
+      {
+        "id":"2",
+        "brand": "Levice",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/0/j/xl-ausk0286-ausk-original-imagqtpqwk237xeq.jpeg?q=70",
+        "currentPrice": "350",
+        "standardPrice":"500",
+        "discount":"50",
+        "name":"Men Pure Grey Cotton T-Shirt"
+      },
+      {
+        "id":"3",
+        "brand": "Addidas",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/f/n/i/xl-90s-anime-oversize-tshirt-for-men-zen1fashion-original-imahyy4ghy9xfmwx.jpeg?q=70",
+        "currentPrice": "550",
+        "standardPrice":"900",
+        "discount":"50",
+        "name":"Men Pure Pink Cotton T-Shirt"
+      },
+      {
+        "id":"4",
+        "brand": "H&M",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/y/m/l-xjc23-rn-3-4th-blk-prpl-spoiled-jump-cuts-original-imahf85g4d5yxm8y.jpeg?q=70",
+        "currentPrice": "1150",
+        "standardPrice":"3000",
+        "discount":"50",
+        "name":"Men Pure Blue Cotton T-Shirt"
+      },
+      {
+        "id":"5",
+        "brand": "Puma",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/e/z/z/xl-mens-hiltop-lycra-t-shirt-sti-original-imahyyzrzdywqtzm.jpeg?q=70",
+        "currentPrice": "1450",
+        "standardPrice":"3400",
+        "discount":"50",
+        "name":"Men Pure Cotton T-Shirt"
+      },
+      {
+        "id":"6",
+        "brand": "Nike",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/o/u/w/m-anime-tshirt-for-men-zen1fashion-original-imahf6svzgnyradz.jpeg?q=70",
+        "currentPrice": "1500",
+        "standardPrice":"3600",
+        "discount":"50",
+        "name":"Men Pure Cotton T-Shirt"
+      }
+      
+      ]
+}
